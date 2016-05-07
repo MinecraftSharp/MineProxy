@@ -5,5 +5,7 @@ A minecraft proxy
 
 Mineproxy <-> Minecraft server (Get the motd)
 
+
 Sending pakcets   : Minecraft -> Mineproxy -> Minecraft server
+
 Receiving packets : Minecraft server -> Mineproxy -> Minecraft 
